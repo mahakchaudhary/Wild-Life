@@ -1,0 +1,8 @@
+.container
+{
+	background-color: black;
+}
+.col{
+	background-color: grey;
+	border: 2px solid;
+}
